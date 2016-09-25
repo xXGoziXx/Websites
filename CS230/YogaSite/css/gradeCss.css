@@ -1,0 +1,261 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Tahoma, serif;
+}
+html {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  
+  margin: 0 auto;
+  width: 50%;
+  height: 100%;
+}
+body {
+  background: -moz-linear-gradient(top, rgba(183, 159, 127, 1) 0%, rgba(175, 116, 39, 1) 100%);
+  background: -webkit-linear-gradient(top, rgba(183, 159, 127, 1) 0%, rgba(175, 116, 39, 1) 100%);
+  background: linear-gradient(to bottom, rgba(183, 159, 127, 1) 0%, rgba(175, 116, 39, 1) 100%);
+  background: rgb(183, 159, 127);
+  color: #fff;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b79f7f', endColorstr='#af7427', GradientType=0);
+  font-size: 14px;
+  max-width: 100%;
+}
+#page-wrap {
+  height: 42em;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+h1 {
+  letter-spacing: 3px;
+  margin: 25px 0;
+  text-transform: uppercase;
+}
+.you-chose {
+  font-weight: bold;
+}
+.index-headline {
+  color: #790;
+  margin: 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  font-size: 36px;
+  height: 0;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px #060;
+}
+#replay {
+  display: block;
+  height: 46px;
+  line-height: 46px;
+  margin: 20px 0 0 0;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.results-img {
+  border: 4px solid #ebe9e6;
+  left: -25px;
+  position: absolute;
+  top: 8px;
+  width: 208px;
+}
+.test-results2 {
+  color: #fff;
+  font-size: 15px;
+  line-height: 21px;
+  text-shadow: 1px 1px rgba(31,76,91,.9);
+}
+.test-results2 .score {
+  color: #678792; 
+  font-size: 22px; 
+  line-height: 30px; 
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.results-overlay {
+  background-color: transparent;
+  margin: 42px 0 0 65px;
+  max-height: 325px;
+  position: relative;
+  width: 510px;
+}
+.results-overlay .quiz-overlay {
+  left: -41px;
+  top: -7px;
+}
+.results-text {
+  padding: 5px 35px 30px 215px; 
+}
+.score-details {
+  font-size: 12px; 
+  line-height: 19px; 
+}
+.score-details-sm {
+  font-size: 12px;
+  line-height: 19px;
+}
+.result {
+  height: 325px;
+}
+.GradeA {
+  background: url(GradeA.png) no-repeat;
+}
+.GradeB {
+  background: url(GradeB.png) no-repeat;
+}
+.GradeC {
+  background: url(GradeC.png) no-repeat;
+}
+.GradeD {
+  background: url(GradeD.png) no-repeat;
+}
+.GradeE {
+  background: url(GradeE.png) no-repeat;
+}
+.GradeF {
+  background: url(GradeF.png) no-repeat;
+}
+.take-quiz-btn, .embed-btn, .close-btn {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: none;
+  background: #28505e;
+  color: #f3f4ef;
+  cursor: pointer;
+  font-family: Verdana, serif
+}
+.take-quiz-btn, .close-btn {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  color: #f3f4ef;
+  cursor: pointer;
+  font-family: Verdana, serif;
+  background: -moz-linear-gradient(top, rgba(98, 125, 77, 1) 0%, rgba(31, 59, 8, 1) 100%);
+  background: -o-linear-gradient(top, rgba(98, 125, 77, 1) 0%, rgba(31, 59, 8, 1) 100%);
+  background: -webkit-gradient(top, rgba(98, 125, 77, 1) 0%, rgba(31, 59, 8, 1) 100%);
+  background: -webkit-linear-gradient(top, rgba(98, 125, 77, 1) 0%, rgba(31, 59, 8, 1) 100%);
+  background: linear-gradient(to bottom, rgba(98, 125, 77, 1) 0%, rgba(31, 59, 8, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#627d4d', endColorstr='#1f3b08', GradientType=0);
+  border: solid 1px #1f3b08;
+  font-size: 21px;
+  text-decoration: none;
+  text-shadow: 1px 1px rgba(33, 33, 33, .7);
+  text-transform: uppercase;
+}
+.take-quiz-btn {
+  top: 267px;
+  width: 259px
+}
+.quiz-overlay, .result {
+  height: 50%;
+  position: absolute;
+  width: 552px;
+  z-index: -1
+}
+
+/*hover animation css*/
+
+/* Grow Shadow */
+.hvr-grow-shadow {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow, transform;
+  -moz-transition-property: box-shadow, transform;
+  -o-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+}
+.hvr-grow-shadow:hover {
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  transform: scale(1.1);
+  -webkit-animation-timing-function: ease-out;
+  -moz-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  border: solid 1.5px #2f4c19;
+}
+.hvr-grow-shadow:focus {
+  outline: none;
+  -webkit-animation-timing-function: ease-out;
+  -moz-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+}
+
+/* Push */
+@-webkit-keyframes hvr-push {
+  50% {
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+  }
+
+  100% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+
+@keyframes hvr-push {
+  50% {
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+  }
+
+  100% {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+}
+
+.hvr-push {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+}
+.hvr-push:active {
+  border: solid 1.5px #2f4c19;
+  -webkit-animation-name: hvr-push;
+  -moz-animation-name: hvr-push;
+  animation-name: hvr-push;
+  -webkit-animation-duration: 0.2s;
+  -moz-animation-duration: 0.2s;
+  animation-duration: 0.2s;
+  -webkit-animation-timing-function: ease-out;
+  -moz-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  -webkit-animation-iteration-count: 1;
+  -moz-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}

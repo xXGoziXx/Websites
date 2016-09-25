@@ -1,0 +1,112 @@
+body {
+        height: auto;
+      }
+    
+      .diary {
+        margin: 0px;
+        padding: 5px;
+        width: 100%;
+        height: 105%;
+        color: #ffffff;
+        font-family: Arial;
+        background-color: #6A2F6E;
+        border: 1px solid #ffffff;
+        -moz-border-radius-bottomleft: 0px;
+        -webkit-border-bottom-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+        -moz-border-radius-bottomright: 0px;
+        -webkit-border-bottom-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+        -moz-border-radius-topright: 0px;
+        -webkit-border-top-right-radius: 0px;
+        border-top-right-radius: 0px;
+        -moz-border-radius-topleft: 0px;
+        -webkit-border-top-left-radius: 0px;
+        border-top-left-radius: 0px;
+      }
+    
+      .diary table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 95%;
+        height: 75%;
+        margin: 0px;
+        padding: 0px;
+        margin: auto;
+      }
+    
+      .diary tr:last-child td:last-child {
+        -moz-border-radius-bottomright: 0px;
+        -webkit-border-bottom-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+      }
+    
+      .diary table tr:first-child {
+        height: 10%;
+      }
+    
+      .diary table tr:first-child td:first-child {
+        -moz-border-radius-topleft: 0px;
+        -webkit-border-top-left-radius: 0px;
+        border-top-left-radius: 0px;
+      }
+    
+      .diary table tr:first-child td:last-child {
+        -moz-border-radius-topright: 0px;
+        -webkit-border-top-right-radius: 0px;
+        border-top-right-radius: 0px;
+      }
+    
+      .diary tr:last-child td:first-child {
+        -moz-border-radius-bottomleft: 0px;
+        -webkit-border-bottom-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+      }
+    
+      .diary td {
+        vertical-align: top;
+        background-color: #CB93C1;
+        border: 1px solid #ffffff;
+        border-width: 0px 1px 1px 0px;
+        text-align: center;
+        padding: 7px;
+        font-size: 14px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #ffffff;
+      }
+    
+      .diary tr:last-child td {
+        border-width: 0px 1px 0px 0px;
+      }
+    
+      .diary tr td:last-child {
+        border-width: 0px 0px 1px 0px;
+      }
+    
+      .diary tr:last-child td:last-child {
+        border-width: 0px 0px 0px 0px;
+      }
+    
+      .diary tr:first-child td {
+        background: -o-linear-gradient(bottom, #AF57AF 5%, #AF57AF 100%);
+        background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #AF57AF), color-stop(1, #AF57AF));
+        background: -moz-linear-gradient( center top, #AF57AF 5%, #AF57AF 100%);
+        background: -o-linear-gradient(top, #AF57AF, 7f00ff);
+        background-color: #AF57AF;
+        border: 0px solid #ffffff;
+        text-align: center;
+        border-width: 0px 0px 1px 1px;
+        font-size: 18px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #ffffff;
+      }
+    
+      .diary tr:first-child td:first-child {
+        border-width: 0px 0px 1px 0px;
+      }
+    
+      .diary tr:first-child td:last-child {
+        border-width: 0px 0px 1px 1px;
+      }

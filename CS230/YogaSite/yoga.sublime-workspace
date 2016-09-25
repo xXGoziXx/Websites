@@ -1,0 +1,2207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"SESSION"
+			],
+			[
+				"yo",
+				"yoga_database"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"rand",
+				"randQImgArr\t(YogaTest.php)"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"a",
+				"answer10"
+			],
+			[
+				"ans",
+				"answer1"
+			],
+			[
+				"Yog",
+				"YogaTest.php"
+			],
+			[
+				"questio",
+				"question"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"random",
+				"random_keys"
+			],
+			[
+				"check",
+				"checkDice"
+			],
+			[
+				"che",
+				"checkDice"
+			],
+			[
+				"Ch",
+				"checkSnpCht"
+			],
+			[
+				"random_",
+				"random_keys"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ra",
+				"randQImgArr"
+			],
+			[
+				"class",
+				"class=\"question"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"FONT",
+				"font-family"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"load",
+				"loadXMLDoc"
+			],
+			[
+				"nu",
+				"numLeaving\t(data.json)"
+			],
+			[
+				"num",
+				"numEntering\t(data.json)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"serif",
+				"sans-serif"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"ma",
+				"matrix"
+			],
+			[
+				"print",
+				"printArray"
+			],
+			[
+				"n",
+				"nextInt()\tint"
+			],
+			[
+				"sca",
+				"Scanner"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"st",
+				"static\t(larryArrays.java)"
+			],
+			[
+				"r",
+				"rotate"
+			],
+			[
+				"f",
+				"for\tfor"
+			],
+			[
+				"first",
+				"firstime"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"th",
+				"thoughts"
+			],
+			[
+				"diary",
+				"diary_database"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"sentry",
+				"sentryHitCount"
+			],
+			[
+				"be",
+				"bePerpendicular"
+			],
+			[
+				"onBu",
+				"onBulletMissed"
+			],
+			[
+				"hit",
+				"hitCount"
+			],
+			[
+				"set",
+				"setBulletColor\t(Tracker.java)"
+			],
+			[
+				"text",
+				"textbox\t(Forums.html)"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"width",
+				"width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"Gozigo",
+				"Gozigool Slogan.png\tw:1920 h:1080"
+			],
+			[
+				"guess",
+				"guess_col"
+			],
+			[
+				"Sca",
+				"scan"
+			],
+			[
+				"X",
+				"X_X"
+			],
+			[
+				"char",
+				"charAt(int)\tchar"
+			],
+			[
+				"U",
+				"Users/"
+			],
+			[
+				"word",
+				"wordCount"
+			],
+			[
+				"p",
+				"println()\tvoid"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"myster",
+				"mysteryFreq"
+			],
+			[
+				"mys",
+				"mysteryFreq"
+			],
+			[
+				"so",
+				"sort(double[])\tvoid"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"Arrays",
+				"ArrayList"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"sugg",
+				"suggestions"
+			],
+			[
+				"sugges",
+				"suggested"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"to",
+				"toCharArray"
+			],
+			[
+				"suggest",
+				"suggest"
+			],
+			[
+				"A",
+				"ArrayList"
+			],
+			[
+				"dict",
+				"dict"
+			],
+			[
+				"File",
+				"FileOutputStream"
+			],
+			[
+				"Fil",
+				"FileOutputStream"
+			],
+			[
+				"ge",
+				"getBytes"
+			],
+			[
+				"huffm",
+				"huffmanString"
+			],
+			[
+				"DS",
+				"Decompressed"
+			],
+			[
+				"comp",
+				"compressor"
+			],
+			[
+				"H",
+				"HuffmanTree"
+			],
+			[
+				"binary",
+				"binaryString"
+			],
+			[
+				"b",
+				"binaryString2"
+			],
+			[
+				"tree",
+				"treeTraverse"
+			],
+			[
+				"order",
+				"orderLoc"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"dr",
+				"drone"
+			],
+			[
+				"dron",
+				"droneLocation"
+			],
+			[
+				"orde",
+				"orderLoc"
+			],
+			[
+				"has",
+				"hashCodeSolution"
+			],
+			[
+				"W",
+				"with"
+			],
+			[
+				"answe",
+				"answerSize"
+			],
+			[
+				"end",
+				"endNumber"
+			],
+			[
+				"Eras",
+				"ERASE_CELL"
+			],
+			[
+				"pain",
+				"PAINT_SQUARE"
+			],
+			[
+				"C2",
+				"C2"
+			],
+			[
+				"answer",
+				"answerSize"
+			],
+			[
+				"paint",
+				"paintLine"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"rea",
+				"readLine"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"fileMana",
+				"fileManagerSort"
+			],
+			[
+				"file",
+				"fileNames"
+			],
+			[
+				"folder",
+				"folderSize"
+			],
+			[
+				"location",
+				"location2"
+			],
+			[
+				"space",
+				"spaceCalc"
+			],
+			[
+				"type",
+				"typeSelector"
+			],
+			[
+				"fileManager",
+				"fileManagerSize"
+			],
+			[
+				"Ex",
+				"Extensions"
+			],
+			[
+				"null",
+				"nullsToNull"
+			],
+			[
+				"de",
+				"descending"
+			],
+			[
+				"fileMAna",
+				"fileManagerSize"
+			],
+			[
+				"fileMA",
+				"fileManagerSize"
+			],
+			[
+				"crea",
+				"createFile"
+			],
+			[
+				"empty",
+				"emptyFileManager"
+			],
+			[
+				"equals",
+				"equalsIgnoreCase"
+			],
+			[
+				"fil",
+				"fileTypes"
+			],
+			[
+				"name",
+				"nameChecker"
+			],
+			[
+				"count",
+				"counter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "YogaIndex.php",
+			"settings":
+			{
+				"buffer_size": 983,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/indexCss.css",
+			"settings":
+			{
+				"buffer_size": 6517,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "YogaTest.php",
+			"settings":
+			{
+				"buffer_size": 10597,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/testCss.css",
+			"settings":
+			{
+				"buffer_size": 5875,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "YogaGrade.php",
+			"settings":
+			{
+				"buffer_size": 5659,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/gradeCss.css",
+			"settings":
+			{
+				"buffer_size": 6249,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"colp",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"",
+				"BracketHighlighter: Toggle Global Enable"
+			],
+			[
+				"line",
+				"Build: Java Lintter"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: v",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ecli",
+				"Eclipse: Format Java"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Eclipse: Format Java"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+			"java",
+			"java decrypt",
+			"java decrypt.java",
+			"cd c:",
+			"cd",
+			"dir",
+			"jdir",
+			"import urllib.request,os,hashlib; h = '261dd1222b4693ce6d4f85f9c827ac06' + '6d5ab8ebdd020086947172a8a1356bb6'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Godstime/Google Drive/Coding_Folder/Websites/CS230/YogaSite"
+	],
+	"file_history":
+	[
+		"/C/Users/Godstime/Google Drive/Coding_Folder/Websites/CS230/YogaSite/yoga.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/Yoga/YogaGrade.php",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Rainbow.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaGrade.php",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/gradeCss.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/indexCss.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaIndex.php",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaTest.php",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/js/YogaJS.js",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Haskell/baby.hs",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/testCss.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/Important code Snippets.txt",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/gradeCss",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/MonteCarloDice/MonteCarloDice.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaIndex.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/yoga.sublime-project",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/StdDraw.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/rainbox.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaIntro.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/introCss.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/sftp-config.json",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/YogaCSS.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/Yoga.php",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/css/YogaIntro.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaCSS.css",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/YogaJS.js",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/YogaSite/img/Adho-Muka-Kapotasana-bc.jpg",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/TextHighlighter/sftp-config.json",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/CS230/TextHighlighter/HTML.html",
+		"/C/Users/Nosa/Google Drive/Website/js/Gozigool-Industries.js",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/YogaSite-FileZilla.sftp-out",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/C++/print_binary.cpp",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/C++/C++.sublime-build",
+		"/C/Users/Nosa/Desktop/Things to do.txt",
+		"/C/Users/Nosa/Desktop/Champs to play in lanes.txt",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool.sublime-workspace",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool.sublime-project",
+		"/C/Users/Nosa/Google Drive/Website/sftp-config.json",
+		"/C/Users/Nosa/Google Drive/Website/img/LockScreen107.jpg",
+		"/C/Users/Nosa/Google Drive/Website/img/GoziGool Industries Lighter Blue Logo (Trans.).png",
+		"/C/Users/Nosa/Google Drive/Website/css/Gozigool-Industries.css",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Industries.php",
+		"/C/Users/Nosa/Google Drive/Website/Forums.php",
+		"/C/Users/Nosa/Google Drive/Website/Contact.php",
+		"/C/Users/Nosa/Google Drive/StoryWebsite/home.css",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/C/Users/Nosa/Google Drive/Website/Yolo.txt",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460901506/Gozigool-FileZilla.sftp-out/Gozigool-Industries.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460901481/Gozigool-FileZilla.sftp-out/Forums.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460901454/Gozigool-FileZilla.sftp-out/Contact.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899699/Gozigool-FileZilla.sftp-out/js/Gozigool-Industries.js",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899680/Gozigool-FileZilla.sftp-out/css/Gozigool-Industries.css",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899651/Gozigool-FileZilla.sftp-out/Contact.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899627/Gozigool-FileZilla.sftp-out/Forums.php",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460899466/Gozigool-FileZilla.sftp-out/Gozigool-Industries.php",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/Gozigool-FileZilla.sftp-out",
+		"/C/Users/Nosa/Google Drive/Website/Gozigool-Filezilla",
+		"/C/Users/Nosa/Google Drive/Website/gozigool",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/gozigool",
+		"/C/users/nosa/appdata/local/temp/sublime-sftp-browse-1460898863/gozigool/Gozigool-Industries.php",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Nosa/Google Drive/Website/img/Gozigool Slogan.png",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Color Highlighter/Default.sublime-keymap",
+		"/C/Users/Nosa/Google Drive/Website/gozigool.sublime-workspace",
+		"/C/Users/Nosa/Google Drive/Website/gozigool.sublime-project",
+		"/C/xampp/htdocs/js/JS.js",
+		"/C/xampp/htdocs/PHP.php",
+		"/C/xampp/htdocs/store.php",
+		"/C/xampp/htdocs/data.xml",
+		"/C/xampp/htdocs/data.json",
+		"/C/xampp/data.json",
+		"/C/xampp/XAMPP.sublime-project",
+		"/C/Users/Nosa/Google Drive/HackerRank/matrixRotation.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/larryArrays.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/Larry's Array Q HR.txt",
+		"/C/Users/Nosa/Google Drive/HackerRank/Form1.cs",
+		"/C/Users/Nosa/Google Drive/HackerRank/gridSearch.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/lisaWorkbooks.java",
+		"/C/Users/Nosa/Google Drive/HackerRank/Hackerank.sublime-project",
+		"/C/robocode/robots/sample/Tracker.java",
+		"/C/robocode/robots/mu/Selphy.java",
+		"/C/robocode/robots/Ultimate_Gaming/Phoenix.java",
+		"/C/xampp/htdocs/css/CSS.css",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 1/CarTest.java",
+		"/C/Users/Nosa/Google Drive/Computer Science/Demo 1/Car.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/fileManager.java",
+		"/C/xampp/htdocs/HTML.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/GlowFX/GlowFX.html",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Websites/HTML/sample.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/robocode/robots/GER/GER.java",
+		"/C/robocode/robots/sample/Walls.java",
+		"/C/Users/Nosa/Google Drive/Coding_Folder/Java/Java.sublime-workspace",
+		"/C/robocode/robots/sample/Tracker.properties",
+		"/C/robocode/robocode.sublime-project",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/readme.md",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.py",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/PS.bat",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Context.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Terminal/Side Bar.sublime-menu",
+		"/C/robocode/compilers/CompilerTest.java",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Java/Robocode.sublime-build",
+		"/C/robocode/libs/config/robocode.properties",
+		"/C/robocode/libs/config/window.properties",
+		"/C/robocode/theme/editor/My theme.properties",
+		"/C/robocode/theme/editor/Robocode Black Theme.properties",
+		"/C/robocode/libs/config/compiler.properties",
+		"/C/robocode/config/compiler.properties",
+		"/C/robocode/robocode.bat",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL-python27.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/Java/JavaC.sublime-build",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Racket/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Haskell/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/PHP/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Robocode/Main.sublime-menu",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Ruby/pry_repl.rb",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Haskell/Default.sublime-commands",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Robocode/Default.sublime-commands",
+		"/C/Users/Nosa/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/config/Python27/Default.sublime-commands"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transparen",
+			">\n",
+			"text-sh",
+			"take",
+			"fade",
+			"\"YogaIndex.php",
+			"test.php",
+			"jpg",
+			"_session",
+			"index",
+			"quiz-progress",
+			"start-quiz",
+			"quiz",
+			"quiz-progress",
+			"result",
+			"index-btn",
+			"close-btn",
+			"embed-btn",
+			"embed-btn, close-btn",
+			"take-quiz-btn",
+			"index-sell",
+			"index-headline",
+			"class=\"index-headline\"",
+			"class=\"index-sell\"",
+			"class=\"close-btn\"",
+			"class=\"embed-btn\"",
+			"class=\"index\"",
+			"min-height",
+			"mtm",
+			"#",
+			"11",
+			"Skrit",
+			"imgA",
+			"imgQ",
+			"imgQArr",
+			"</br>",
+			"<br>",
+			" ",
+			"/",
+			"dete",
+			"document",
+			"+",
+			"i",
+			"validEntryChecker",
+			"\"O\"",
+			"\"X\"",
+			"X",
+			"▄",
+			"▀",
+			"█",
+			":",
+			"mode",
+			"ctrl+p",
+			"¡",
+			"ç",
+			"¯",
+			"­",
+			"­­",
+			"ù",
+			"…",
+			"ô",
+			"©",
+			"­",
+			" ¯E",
+			"¯E",
+			"þ",
+			"_E",
+			"¡",
+			"`",
+			"þ",
+			"`",
+			"ù",
+			"…",
+			".",
+			"~",
+			"©",
+			"$",
+			"­",
+			"¡",
+			"`",
+			"ù",
+			"…",
+			".",
+			"­",
+			"$",
+			"(",
+			"¯",
+			"¡",
+			"ù",
+			"¡",
+			"ù",
+			"…",
+			".",
+			"length",
+			"())\n",
+			" ",
+			".*;\n",
+			".nextInt",
+			"f",
+			"warehouse",
+			"420",
+			"answerSize",
+			"* @",
+			"param void",
+			"System.out.print",
+			"#",
+			"System",
+			"#",
+			"));\n",
+			"finder",
+			"*",
+			".",
+			"#",
+			"scan",
+			"renameFile",
+			"nullsTo",
+			"scan.nextLine",
+			"creatFile",
+			"answer",
+			"createFolder",
+			"];\n",
+			"\");\n",
+			"20",
+			"25",
+			"printed out",
+			");\n",
+			"infile",
+			"level4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"YogaSite/YogaIndex.php",
+			"YogaIndex.php",
+			"png",
+			"_SESSION",
+			"Eng",
+			"aImgFile",
+			"qImgFile",
+			"randQImgArr",
+			"<br>",
+			"</br>",
+			"|",
+			" ",
+			".",
+			"j",
+			"player2",
+			"player1",
+			"O",
+			"#",
+			"E",
+			"L",
+			"C",
+			"R",
+			"R ",
+			" ",
+			"ù",
+			"V",
+			"Y",
+			"B",
+			"S",
+			"E",
+			",",
+			" ",
+			"V",
+			"I",
+			"A",
+			"T",
+			"E",
+			",",
+			" ",
+			"V",
+			"I",
+			"S",
+			"L",
+			" ",
+			"A",
+			"E",
+			"a",
+			"e",
+			"V",
+			"I",
+			"hashCodeSolution.warehouse",
+			"size",
+			"  @",
+			"param",
+			"$",
+			"*",
+			"+",
+			".",
+			"#",
+			"*",
+			"sc",
+			"answers",
+			"10",
+			"20",
+			"displayed",
+			"Eur ",
+			"Eur",
+			"numberToWords",
+			"scan.n",
+			"Integer.parseInt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "YogaIndex.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								783,
+								783
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLight.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/indexCss.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6517,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1489,
+								1499
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLight.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2076.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "YogaTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLight.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/testCss.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2068,
+								2074
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLight.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1127.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "YogaGrade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLight.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 123.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/gradeCss.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1810,
+								1820
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/TronLight.tmTheme",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "true",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"syntax_mgr_loaded": true,
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1842.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 231.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 520.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "yoga.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

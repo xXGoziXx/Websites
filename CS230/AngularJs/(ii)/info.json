@@ -1,0 +1,54 @@
+{
+    "shows": [
+        {
+            "title": "Game of Thrones",
+            "year": 2011,
+            "favorite": true
+        },
+        {
+            "title": "Walking Dead",
+            "year": 2010,
+            "favorite": false
+        },
+        {
+            "title": "Firefly",
+            "year": 2002,
+            "favorite": true
+        },
+        {
+            "title": "Banshee",
+            "year": 2013,
+            "favorite": true
+        },
+        {
+            "title": "Greys Anatomy",
+            "year": 2005,
+            "favorite": false
+        },
+        {
+            "title": "The Avengers",
+            "year": 2012,
+            "favorite": true
+        },
+        {
+            "title": "Iron Man 1",
+            "year": 2008,
+            "favorite": true
+        },
+        {
+            "title": "Iron Man 2",
+            "year": 2010,
+            "favorite": true
+        },
+        {
+            "title": "Iron Man 3",
+            "year": 2013,
+            "favorite": true
+        },
+        {
+            "title": "Deadpool",
+            "year": 2016,
+            "favorite": false
+        }
+    ]
+}
